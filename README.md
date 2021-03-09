@@ -20,6 +20,12 @@ MVCフレームワークに則ったものにします。CRUD処理ができる�
 あと、テストとかも勉強したいので組み込みたい。)
 
 
+### インストールしたライブラリ
+
+```shell
+go get github.com/wcl48/valval  # UserModel のバリデーションのため
+```
+
 ### User model
 
 ## Links
