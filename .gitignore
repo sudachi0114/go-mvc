@@ -1,0 +1,6 @@
+# dotfiles
+.DS_Store
+.go-version
+
+# Binary
+go-mvc
